@@ -1,0 +1,19 @@
+.card-deck {
+    max-width: 85%;
+    margin: auto;
+}
+
+.card-img-top {
+    height: 20%;
+
+}
+
+.card {
+    text-align: center;
+}
+
+.big-centered-text {
+    text-align: center;
+    margin: 2%;
+    font-size: 2rem;
+}
